@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Hello World!
+description: lcp0578 Gitbub Blog
 tagline: Supporting tagline
 ---
 {% include JB/setup %}
